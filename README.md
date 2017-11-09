@@ -1,3 +1,4 @@
-echo # stashed-chrome
+## Stashed
+![Extension](https://frdiniz.github.io/images/stashed-chrome/stashed.gif)
 
-## teste
+Simple extension that exports my favorites in json format to [Jsonbin](https://jsonbin.org/). Made to support mobile applications.
